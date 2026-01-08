@@ -1,5 +1,5 @@
 # Aceoffix7-Net-Framework
-**Latest Version：7.3.1.1**
+**Latest Version：7.3.1.2**
 
 ### 1. Introduction
 
